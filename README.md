@@ -2,6 +2,12 @@
 A history of changes made in the ROM/BIOS of CC  
 
 
+###  How to use repo in forums/etc
+- Q: I want to show a part of the code present on a spesific version of computercraft.
+- A: Browse to [Releases/Tags](https://github.com/alekso56/ComputercraftLua/tags) select the version, click the commitname on the side, choose browse files. Then promptly find the piece of code you want to link to.
+- A: This is done to prevent your link from expiring in the future!
+-Q: 
+
 
 
 
