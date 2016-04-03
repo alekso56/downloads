@@ -1,7 +1,5 @@
-##ComputercraftLua
-================
-
-A history of changes made in the ROM/BIOS of CC
+##ComputercraftLua  
+A history of changes made in the ROM/BIOS of CC  
 
 
 
