@@ -4,7 +4,8 @@ A history of changes made in the ROM/BIOS of CC
 
 ####  How to use repo in forums/etc
 - Q: I want to show a part of the code present on a spesific version of computercraft.  
-- A: Find TagView, as shown on the image, click your version. ![alt text](http://i.imgur.com/j2uoekg.png "Click TagView") Then promptly find the piece of code you want to link to.  
+- A: Find TagView, as shown on the image, click your version. ![alt text](http://i.imgur.com/j2uoekg.png "Click TagView") 
+- Then promptly find the piece of code you want to link to.  
 - A: This is done to prevent your link from expiring in the future!  
 
 ####License:
